@@ -4,7 +4,7 @@
 
 ## 📌 Context & Purpose
 
-This project was developed as part of NTU's educational outreach to 順安國中. The target audience was junior high students (grades 7–9) with zero prior coding experience.
+This project was developed as part of NTU's educational outreach to 順安國中. The target audience was junior high students (grades 7–9) with zero prior coding experience. The "Advanced Programming" session was the third in a curriculum sequence. By the time students reached this module, they had already been introduced to basic concepts such as variables, conditionals, loops, and lists in the first two sessions.
 
 This teaching initiative aligns with Microsoft TAI core responsibilities:
 
