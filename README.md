@@ -1,6 +1,6 @@
 # Python Curriculum for Jinior High School Students at Yilan
 
-**Designed and delivered by Chuan-Chi Hsu & Ju-Ying (NTU Information Management Service Team Outreach Program)**
+**Designed and delivered by Chuan-Chi Hsu & Ju-Ying (NTU Information Management Service Team Outreach Program in April 2025)**
 
 ## 📌 Context & Purpose
 
